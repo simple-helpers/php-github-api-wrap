@@ -7,9 +7,9 @@ Simple [Phalcon](https://phalconphp.com) based wrapper for [KnpLabs/php-github-a
 
 Fetch & keep all commits and file links and the files of particular pull-request.
 ```
-$this->api = new GithubAPIWrap();
+$api = new GithubAPIWrap();
 
-$this->api->fetchPullRequestData("simple-helpers", "php-file-mover", 8)
+$api->fetchPullRequestData("simple-helpers", "php-file-mover", 8)
   ->fetchPullRequestCommitsData();
   ->fetchPullRequestCommitsLinks();
   ->fetchPullRequestFilesLinks();
