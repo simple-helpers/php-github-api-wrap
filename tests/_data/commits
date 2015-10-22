@@ -1,0 +1,212 @@
+[
+  {
+    "sha": "95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+    "commit": {
+      "author": {
+        "name": "barantaran",
+        "email": "yourchev@gmail.com",
+        "date": "2015-09-03T13:21:44Z"
+      },
+      "committer": {
+        "name": "barantaran",
+        "email": "yourchev@gmail.com",
+        "date": "2015-09-03T13:21:44Z"
+      },
+      "message": "Compare name with high precision",
+      "tree": {
+        "sha": "f87f16a647cf84066023c36b2371f385756bc294",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/trees/f87f16a647cf84066023c36b2371f385756bc294"
+      },
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+    "html_url": "https://github.com/simple-helpers/php-file-mover/commit/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+    "comments_url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e/comments",
+    "author": {
+      "login": "yourchev",
+      "id": 6447498,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6447498?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yourchev",
+      "html_url": "https://github.com/yourchev",
+      "followers_url": "https://api.github.com/users/yourchev/followers",
+      "following_url": "https://api.github.com/users/yourchev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yourchev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yourchev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yourchev/subscriptions",
+      "organizations_url": "https://api.github.com/users/yourchev/orgs",
+      "repos_url": "https://api.github.com/users/yourchev/repos",
+      "events_url": "https://api.github.com/users/yourchev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yourchev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "yourchev",
+      "id": 6447498,
+      "avatar_url": "https://avatars.githubusercontent.com/u/6447498?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/yourchev",
+      "html_url": "https://github.com/yourchev",
+      "followers_url": "https://api.github.com/users/yourchev/followers",
+      "following_url": "https://api.github.com/users/yourchev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/yourchev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/yourchev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/yourchev/subscriptions",
+      "organizations_url": "https://api.github.com/users/yourchev/orgs",
+      "repos_url": "https://api.github.com/users/yourchev/repos",
+      "events_url": "https://api.github.com/users/yourchev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/yourchev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "60b8b2ca3e1cc96f14fde808315ee8f161e9bb17",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/60b8b2ca3e1cc96f14fde808315ee8f161e9bb17",
+        "html_url": "https://github.com/simple-helpers/php-file-mover/commit/60b8b2ca3e1cc96f14fde808315ee8f161e9bb17"
+      }
+    ]
+  },
+  {
+    "sha": "378a31ba0ccd1322d0b78375b90452016c801bcf",
+    "commit": {
+      "author": {
+        "name": "mir-developer",
+        "email": "d.yurchev@mail.ru",
+        "date": "2015-10-19T15:29:05Z"
+      },
+      "committer": {
+        "name": "mir-developer",
+        "email": "d.yurchev@mail.ru",
+        "date": "2015-10-19T15:29:05Z"
+      },
+      "message": "Update FileMover.php",
+      "tree": {
+        "sha": "7180b01e182eaf1151558a13c10bde2954d3639a",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/trees/7180b01e182eaf1151558a13c10bde2954d3639a"
+      },
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/commits/378a31ba0ccd1322d0b78375b90452016c801bcf",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/378a31ba0ccd1322d0b78375b90452016c801bcf",
+    "html_url": "https://github.com/simple-helpers/php-file-mover/commit/378a31ba0ccd1322d0b78375b90452016c801bcf",
+    "comments_url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/378a31ba0ccd1322d0b78375b90452016c801bcf/comments",
+    "author": {
+      "login": "mir-developer",
+      "id": 14108910,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mir-developer",
+      "html_url": "https://github.com/mir-developer",
+      "followers_url": "https://api.github.com/users/mir-developer/followers",
+      "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+      "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+      "repos_url": "https://api.github.com/users/mir-developer/repos",
+      "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mir-developer",
+      "id": 14108910,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mir-developer",
+      "html_url": "https://github.com/mir-developer",
+      "followers_url": "https://api.github.com/users/mir-developer/followers",
+      "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+      "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+      "repos_url": "https://api.github.com/users/mir-developer/repos",
+      "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+        "html_url": "https://github.com/simple-helpers/php-file-mover/commit/95b60989b47f1f64769e6cc9750649ad5f5f6e8e"
+      }
+    ]
+  },
+  {
+    "sha": "748d71dbd5644b2243537e8fc319fbac4190e070",
+    "commit": {
+      "author": {
+        "name": "mir-developer",
+        "email": "d.yurchev@mail.ru",
+        "date": "2015-10-19T15:29:55Z"
+      },
+      "committer": {
+        "name": "mir-developer",
+        "email": "d.yurchev@mail.ru",
+        "date": "2015-10-19T15:29:55Z"
+      },
+      "message": "Update autoload.php",
+      "tree": {
+        "sha": "56f1abeae24eaf3cc85b768ac69a7d300f535547",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/trees/56f1abeae24eaf3cc85b768ac69a7d300f535547"
+      },
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/commits/748d71dbd5644b2243537e8fc319fbac4190e070",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/748d71dbd5644b2243537e8fc319fbac4190e070",
+    "html_url": "https://github.com/simple-helpers/php-file-mover/commit/748d71dbd5644b2243537e8fc319fbac4190e070",
+    "comments_url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/748d71dbd5644b2243537e8fc319fbac4190e070/comments",
+    "author": {
+      "login": "mir-developer",
+      "id": 14108910,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mir-developer",
+      "html_url": "https://github.com/mir-developer",
+      "followers_url": "https://api.github.com/users/mir-developer/followers",
+      "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+      "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+      "repos_url": "https://api.github.com/users/mir-developer/repos",
+      "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mir-developer",
+      "id": 14108910,
+      "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mir-developer",
+      "html_url": "https://github.com/mir-developer",
+      "followers_url": "https://api.github.com/users/mir-developer/followers",
+      "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+      "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+      "repos_url": "https://api.github.com/users/mir-developer/repos",
+      "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "378a31ba0ccd1322d0b78375b90452016c801bcf",
+        "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/378a31ba0ccd1322d0b78375b90452016c801bcf",
+        "html_url": "https://github.com/simple-helpers/php-file-mover/commit/378a31ba0ccd1322d0b78375b90452016c801bcf"
+      }
+    ]
+  }
+]

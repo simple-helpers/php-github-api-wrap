@@ -1,0 +1,89 @@
+{
+  "sha": "378a31ba0ccd1322d0b78375b90452016c801bcf",
+  "commit": {
+    "author": {
+      "name": "mir-developer",
+      "email": "d.yurchev@mail.ru",
+      "date": "2015-10-19T15:29:05Z"
+    },
+    "committer": {
+      "name": "mir-developer",
+      "email": "d.yurchev@mail.ru",
+      "date": "2015-10-19T15:29:05Z"
+    },
+    "message": "Update FileMover.php",
+    "tree": {
+      "sha": "7180b01e182eaf1151558a13c10bde2954d3639a",
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/trees/7180b01e182eaf1151558a13c10bde2954d3639a"
+    },
+    "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/commits/378a31ba0ccd1322d0b78375b90452016c801bcf",
+    "comment_count": 0
+  },
+  "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/378a31ba0ccd1322d0b78375b90452016c801bcf",
+  "html_url": "https://github.com/simple-helpers/php-file-mover/commit/378a31ba0ccd1322d0b78375b90452016c801bcf",
+  "comments_url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/378a31ba0ccd1322d0b78375b90452016c801bcf/comments",
+  "author": {
+    "login": "mir-developer",
+    "id": 14108910,
+    "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mir-developer",
+    "html_url": "https://github.com/mir-developer",
+    "followers_url": "https://api.github.com/users/mir-developer/followers",
+    "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+    "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+    "repos_url": "https://api.github.com/users/mir-developer/repos",
+    "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "mir-developer",
+    "id": 14108910,
+    "avatar_url": "https://avatars.githubusercontent.com/u/14108910?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mir-developer",
+    "html_url": "https://github.com/mir-developer",
+    "followers_url": "https://api.github.com/users/mir-developer/followers",
+    "following_url": "https://api.github.com/users/mir-developer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mir-developer/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mir-developer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mir-developer/subscriptions",
+    "organizations_url": "https://api.github.com/users/mir-developer/orgs",
+    "repos_url": "https://api.github.com/users/mir-developer/repos",
+    "events_url": "https://api.github.com/users/mir-developer/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mir-developer/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+      "html_url": "https://github.com/simple-helpers/php-file-mover/commit/95b60989b47f1f64769e6cc9750649ad5f5f6e8e"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "88d259340d00714cf42cb253e209194572cf42b1",
+      "filename": "src/FileMover.php",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/simple-helpers/php-file-mover/blob/378a31ba0ccd1322d0b78375b90452016c801bcf/src/FileMover.php",
+      "raw_url": "https://github.com/simple-helpers/php-file-mover/raw/378a31ba0ccd1322d0b78375b90452016c801bcf/src/FileMover.php",
+      "contents_url": "https://api.github.com/repos/simple-helpers/php-file-mover/contents/src/FileMover.php?ref=378a31ba0ccd1322d0b78375b90452016c801bcf",
+      "patch": "@@ -73,7 +73,7 @@ class FileMover\n     */\n     function __construct( $sourceDir, $suitablePaths, $logger=null )\n     {\n-        $ret=\"g\";\n+        $ret=\"ga\";\n         $this->_sourceDir = $sourceDir;\n         $this->_suitablePaths = $suitablePaths;\n         $this->_logger = $logger;"
+    }
+  ]
+}

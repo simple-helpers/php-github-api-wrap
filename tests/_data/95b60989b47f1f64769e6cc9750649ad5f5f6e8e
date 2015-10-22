@@ -1,0 +1,89 @@
+{
+  "sha": "95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+  "commit": {
+    "author": {
+      "name": "barantaran",
+      "email": "yourchev@gmail.com",
+      "date": "2015-09-03T13:21:44Z"
+    },
+    "committer": {
+      "name": "barantaran",
+      "email": "yourchev@gmail.com",
+      "date": "2015-09-03T13:21:44Z"
+    },
+    "message": "Compare name with high precision",
+    "tree": {
+      "sha": "f87f16a647cf84066023c36b2371f385756bc294",
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/trees/f87f16a647cf84066023c36b2371f385756bc294"
+    },
+    "url": "https://api.github.com/repos/simple-helpers/php-file-mover/git/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+    "comment_count": 0
+  },
+  "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+  "html_url": "https://github.com/simple-helpers/php-file-mover/commit/95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+  "comments_url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/95b60989b47f1f64769e6cc9750649ad5f5f6e8e/comments",
+  "author": {
+    "login": "yourchev",
+    "id": 6447498,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6447498?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yourchev",
+    "html_url": "https://github.com/yourchev",
+    "followers_url": "https://api.github.com/users/yourchev/followers",
+    "following_url": "https://api.github.com/users/yourchev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yourchev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yourchev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yourchev/subscriptions",
+    "organizations_url": "https://api.github.com/users/yourchev/orgs",
+    "repos_url": "https://api.github.com/users/yourchev/repos",
+    "events_url": "https://api.github.com/users/yourchev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yourchev/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "committer": {
+    "login": "yourchev",
+    "id": 6447498,
+    "avatar_url": "https://avatars.githubusercontent.com/u/6447498?v=3",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yourchev",
+    "html_url": "https://github.com/yourchev",
+    "followers_url": "https://api.github.com/users/yourchev/followers",
+    "following_url": "https://api.github.com/users/yourchev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yourchev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yourchev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yourchev/subscriptions",
+    "organizations_url": "https://api.github.com/users/yourchev/orgs",
+    "repos_url": "https://api.github.com/users/yourchev/repos",
+    "events_url": "https://api.github.com/users/yourchev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yourchev/received_events",
+    "type": "User",
+    "site_admin": false
+  },
+  "parents": [
+    {
+      "sha": "60b8b2ca3e1cc96f14fde808315ee8f161e9bb17",
+      "url": "https://api.github.com/repos/simple-helpers/php-file-mover/commits/60b8b2ca3e1cc96f14fde808315ee8f161e9bb17",
+      "html_url": "https://github.com/simple-helpers/php-file-mover/commit/60b8b2ca3e1cc96f14fde808315ee8f161e9bb17"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "additions": 1,
+    "deletions": 1
+  },
+  "files": [
+    {
+      "sha": "b3d55c43dd3f5317fe16c566d9e70381e0a49bed",
+      "filename": "src/FileMover.php",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 1,
+      "changes": 2,
+      "blob_url": "https://github.com/simple-helpers/php-file-mover/blob/95b60989b47f1f64769e6cc9750649ad5f5f6e8e/src/FileMover.php",
+      "raw_url": "https://github.com/simple-helpers/php-file-mover/raw/95b60989b47f1f64769e6cc9750649ad5f5f6e8e/src/FileMover.php",
+      "contents_url": "https://api.github.com/repos/simple-helpers/php-file-mover/contents/src/FileMover.php?ref=95b60989b47f1f64769e6cc9750649ad5f5f6e8e",
+      "patch": "@@ -164,7 +164,7 @@ public function moveMatches()\n     {\n         foreach ($this->_files as $fileData) {\n             foreach ($this->_dirs as $dirData) {\n-                if (stristr($dirData[\"name\"], $fileData[\"base-name\"])) {\n+                if (strstr($dirData[\"name\"], $fileData[\"base-name\"])) {\n                     $this->_move(\n                         $fileData[\"path-name\"],\n                         $dirData[\"path-name\"].DIRECTORY_SEPARATOR.$fileData[\"name\"]"
+    }
+  ]
+}
