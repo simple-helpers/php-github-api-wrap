@@ -9,7 +9,7 @@ Fetch & keep all commits and file links and the files of particular pull-request
 ```
 $api = new GithubAPIWrap();
 
-$api->fetchPullRequestData("simple-helpers", "php-file-mover", 8)
+$api->fetchPullRequestData("simple-helpers", "php-github-api-wrap", 1)
   ->fetchPullRequestCommitsData();
   ->fetchPullRequestCommitsLinks();
   ->fetchPullRequestFilesLinks();
