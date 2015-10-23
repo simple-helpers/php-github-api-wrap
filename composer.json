@@ -1,5 +1,8 @@
 {
     "name": "root/php-github-api-wrap",
+    "type": "library",
+    "description": "KnpLabs PHP Github API wrapper",
+    "homepage": "https://github.com/simple-helpers/php-github-api-wrap",
     "require": {
         "php" : ">=5.5.0",
         "knplabs/github-api": "~1.4",
