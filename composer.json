@@ -3,6 +3,12 @@
     "type": "library",
     "description": "KnpLabs PHP Github API wrapper",
     "homepage": "https://github.com/simple-helpers/php-github-api-wrap",
+    "authors": [
+        {
+            "name": "barantaran",
+            "email": "yourchev@gmail.com"
+        }
+    ],
     "require": {
         "php" : ">=5.5.0",
         "knplabs/github-api": "~1.4",
@@ -14,10 +20,7 @@
         "codeception/codeception": "^2.1",
         "monolog/monolog": "^1.17"
     },
-    "authors": [
-        {
-            "name": "barantaran",
-            "email": "yourchev@gmail.com"
-        }
-    ]
+    "autoload": {
+        "psr-4": { "SimpleHelpers\\Libs\\Github": "src/"  }
+    }
 }
