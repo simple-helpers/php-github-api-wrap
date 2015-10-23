@@ -18,12 +18,25 @@ use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 use Httpful\Request as HRequest;
 
-
+//Real logger
+/*
 $di->set(
     'logger',
     function() use ($config) {
         $logger = new Logger('test');
         $logger->pushHandler(new StreamHandler($config->application->logDir . "php-github-api-wrap"));
+        return $logger;
+    },
+    true
+);
+ */
+
+$di->set(
+    'logger',
+    function() use ($config) {
+        $logger = m::mock("Logger");
+        $logger->shouldReceive("addDebug","addError")->andReturn(true);
+
         return $logger;
     },
     true
