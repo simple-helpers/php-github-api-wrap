@@ -21,6 +21,8 @@
         "monolog/monolog": "^1.17"
     },
     "autoload": {
-        "psr-4": { "SimpleHelpers\\Libs\\Github": "src/"  }
+        "psr-4": {
+            "SimpleHelpers\\Libs\\Github\\": "src/"
+        }
     }
 }
