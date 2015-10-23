@@ -1,17 +1,5 @@
 <?php
 
-/**
- * PHP GitHub API client wrapper.
- *
- * PHP version 5
- *
- * @category PHP
- * @package  PHP_SimpleHelpers
- * @author   barantaran <yourchev@gmail.com>
- * @license  BSD Licence
- * @link     http://pear.php.net/package/PHP_CodeSniffer
- */
-
 namespace SimpleHelpers\Libs\Github;
 
 use Phalcon\Mvc\User\Component as Component;

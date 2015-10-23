@@ -8,11 +8,14 @@ before_script:
   - cd $TRAVIS_BUILD_DIR/vendor/cphalcon/build && ./install && cd $TRAVIS_BUILD_DIR
   - echo 'extension=phalcon.so' >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
   - php vendor/bin/codecept build
+  - pyrus install pear/PHP_CodeSniffer
+  - phpenv rehash
 
 install:
  - composer update
 
 script:
+ - phpcs src/*
  - php vendor/bin/codecept run
 
 notifications:
