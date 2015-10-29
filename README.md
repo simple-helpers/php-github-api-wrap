@@ -5,7 +5,7 @@ Simple [Phalcon](https://phalconphp.com) based wrapper for [KnpLabs/php-github-a
 
 ## Basic usage
 
-Fetch & keep all commits and file links and the files of particular pull-request.
+Fetch & keep all commits and file links and files of particular pull-request.
 ```php
 <?php
 
