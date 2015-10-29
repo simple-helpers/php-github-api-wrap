@@ -9,7 +9,7 @@
  * @package  PHP_SimpleHelpers
  * @author   barantaran <yourchev@gmail.com>
  * @license  BSD Licence
- * @link     http://pear.php.net/package/PHP_CodeSniffer
+ * @link     https://github.com/simple-helpers/php-github-api-wrap
  */
 
 namespace SimpleHelpers\Libs\Github;
@@ -25,7 +25,7 @@ use Phalcon\Mvc\User\Component as Component;
  * @package  PHP_SimpleHelpers
  * @author   barantaran <yourchev@gmail.com>
  * @license  BSD Licence
- * @link     http://pear.php.net/package/PHP_CodeSniffer
+ * @link     https://github.com/simple-helpers/php-github-api-wrap
  */
 
 class GithubAPIWrap extends Component
